@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QwrCMcsZ/jI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\EmployeeReports.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinayakapoojary\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.6\\microsoft.win32.systemevents.9.0.6.nupkg.sha512",
+    "C:\\Users\\vinayakapoojary\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\vinayakapoojary\\.nuget\\packages\\system.drawing.common\\9.0.6\\system.drawing.common.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

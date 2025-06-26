@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F8CAE5-8BB0-43A9-BAE3-55D3ED331CFE}|EmployeeReports\\EmployeeReports.csproj|c:\\users\\vinayakapoojary\\project\\employeereports\\employeereports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F8CAE5-8BB0-43A9-BAE3-55D3ED331CFE}|EmployeeReports\\EmployeeReports.csproj|solutionrelative:employeereports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F8CAE5-8BB0-43A9-BAE3-55D3ED331CFE}|EmployeeReports\\EmployeeReports.csproj|c:\\users\\vinayakapoojary\\project\\employeereports\\employeereports\\piechartreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F8CAE5-8BB0-43A9-BAE3-55D3ED331CFE}|EmployeeReports\\EmployeeReports.csproj|solutionrelative:employeereports\\piechartreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F8CAE5-8BB0-43A9-BAE3-55D3ED331CFE}|EmployeeReports\\EmployeeReports.csproj|c:\\users\\vinayakapoojary\\project\\employeereports\\employeereports\\employeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F8CAE5-8BB0-43A9-BAE3-55D3ED331CFE}|EmployeeReports\\EmployeeReports.csproj|solutionrelative:employeereports\\employeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F8CAE5-8BB0-43A9-BAE3-55D3ED331CFE}|EmployeeReports\\EmployeeReports.csproj|c:\\users\\vinayakapoojary\\project\\employeereports\\employeereports\\employeeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F8CAE5-8BB0-43A9-BAE3-55D3ED331CFE}|EmployeeReports\\EmployeeReports.csproj|solutionrelative:employeereports\\employeeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 26,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeEntry.cs",
+              "DocumentMoniker": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\EmployeeEntry.cs",
+              "RelativeDocumentMoniker": "EmployeeReports\\EmployeeEntry.cs",
+              "ToolTip": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\EmployeeEntry.cs",
+              "RelativeToolTip": "EmployeeReports\\EmployeeEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:14:44.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PieChartReport.cs",
+              "DocumentMoniker": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\PieChartReport.cs",
+              "RelativeDocumentMoniker": "EmployeeReports\\PieChartReport.cs",
+              "ToolTip": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\PieChartReport.cs",
+              "RelativeToolTip": "EmployeeReports\\PieChartReport.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:52:28.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\EmployeeTable.cs",
+              "RelativeDocumentMoniker": "EmployeeReports\\EmployeeTable.cs",
+              "ToolTip": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\EmployeeTable.cs",
+              "RelativeToolTip": "EmployeeReports\\EmployeeTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:49:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeReports\\Program.cs",
+              "ToolTip": "C:\\Users\\vinayakapoojary\\Project\\EmployeeReports\\EmployeeReports\\Program.cs",
+              "RelativeToolTip": "EmployeeReports\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:43:55.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 26,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
